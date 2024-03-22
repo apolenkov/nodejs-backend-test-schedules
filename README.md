@@ -37,7 +37,7 @@ If you have not been specifically asked, you may pick either
 ### Basic Requirements
 
 - Use Node.js `LTS` and any framework of your choice (Nest JS is preferred).
-- Use any persistence store. NoSQL DB is preferred.
+- Use any persistence store.
 - Write concise and clear commit messages.
 - Write clear **documentation** on how it has been designed and how to 
 run the code.
@@ -61,7 +61,7 @@ feel free to try out if you feel up to it.
 
 - Provide a complete user auth (authentication/authorization/etc) strategy, 
 such as OAuth.
-- Use a NoSQL DB and build a filter feature that can filter records with
+- Build a filter feature that can filter records with
 some of the attributes.
 - Use event-driven architecture (Kafka is preferred) instead of RESTful
 - Can add C4 model architecture schemas
