@@ -44,7 +44,7 @@ run the code.
 - Use linting code
 
 ### Bonus
-
+- Use event-driven architecture instead of RESTful
 - Provide proper unit tests.
 - Add a read only endpoint to fetch location information based off the user's 
 address (use [NASA](https://api.nasa.gov/) or 
@@ -63,7 +63,6 @@ feel free to try out if you feel up to it.
 such as OAuth.
 - Build a filter feature that can filter records with
 some of the attributes.
-- Use event-driven architecture (Kafka is preferred) instead of RESTful
 - Can add C4 model architecture schemas
 
 ## Q&A
