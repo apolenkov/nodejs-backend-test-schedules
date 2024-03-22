@@ -5,8 +5,8 @@ and follow the guidelines within
 
 ## Can choose one of business context by level
 
-- [medium.md](junior.md)
-- [high.md](senior.md)
+- [junior.md](junior.md)
+- [senior.md](senior.md)
 
 ## What We Care About
 
